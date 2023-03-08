@@ -15,4 +15,5 @@ mkdir tmp/my_first_directory
 mv "Used for moving a file to another directory
 rm "used for removing or deleting a file inside a directory"
 rmdir "Used for removing or deleting a directory"
-cd - "Used for changing the working directory to the previous"	
+cd - "Used for changing the working directory to the previous
+ls -al "Used for listing directory content and hidden files n a long format"	
