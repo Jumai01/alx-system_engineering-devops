@@ -19,4 +19,4 @@ cd - "Used for changing the working directory to the previous
 ls -al "Used for listing directory content and hidden files n a long format"
 file "Used for printing file type"
 ln -s "Used for creating symbolic link"
-	
+cp -u *.file name "Used for copying multiple files"	
