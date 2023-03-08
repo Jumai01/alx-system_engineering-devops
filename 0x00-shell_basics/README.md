@@ -8,3 +8,5 @@ ls -l
 "Used for listing directory content in a long format
 ls -al
 "Used for listing directory content and hidden files in a long format"
+ls -aln
+"Used for listing directory content,hidden files and change alphabet letters to numbers in a long format"
