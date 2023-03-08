@@ -9,4 +9,6 @@ ls -l
 ls -al
 "Used for listing directory content and hidden files in a long format"
 ls -aln
-"Used for listing directory content,hidden files and change alphabet letters to numbers in a long format"
+"Used for listing directory content,hidden files and change alphabet letters to numbers in a long format
+mkdir tmp/my_first_directory
+"Used for creating a directory in anothr directory /tmp	
