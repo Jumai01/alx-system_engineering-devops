@@ -11,4 +11,5 @@ ls -al
 ls -aln
 "Used for listing directory content,hidden files and change alphabet letters to numbers in a long format
 mkdir tmp/my_first_directory
-"Used for creating a directory in anothr directory /tmp	
+"Used for creating a directory in anothr directory /tm
+mv "Used for moving a file to another directory"	
