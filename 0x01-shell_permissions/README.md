@@ -12,3 +12,4 @@ chmod reference "Used for mirroring permission"
 chmod -R +X . "Used for directories permission"
 mkdir "Used for creating a directory"
 chgrp "Used for changing group owner of a file"
+chown vincent;staff * :Used for chamging owner of group:
