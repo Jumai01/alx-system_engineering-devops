@@ -14,3 +14,4 @@ mkdir "Used for creating a directory"
 chgrp "Used for changing group owner of a file"
 chown vincent;staff * :Used for chamging owner of group:
 chown vincent:staff _hello "Used for changing owner of a group"
+chown --from=oldfile new file "Used for changing file owner if the owner exists"
