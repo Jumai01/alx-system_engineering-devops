@@ -8,3 +8,5 @@ head "Used to output the first line of a file"
 > "Used for which folder to look for"
 ls -al > "Used or copying a command to another command"
 tail "Used to ouput the last line of a fle"
+rm "Used to remove a file"
+
